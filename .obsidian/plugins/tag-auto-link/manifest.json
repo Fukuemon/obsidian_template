@@ -1,0 +1,9 @@
+{
+	"id": "tag-auto-link",
+	"name": "Tag Auto Link",
+	"version": "0.0.1",
+	"minAppVersion": "1.2.8",
+	"description": "Automatically adds tags to frontmatter and links content in your notes based on a specified tag folder.",
+	"author": "Yuya Fukura",
+	"isDesktopOnly": false
+}

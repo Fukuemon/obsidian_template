@@ -1,0 +1,26 @@
+{
+  "autoLoadTwoHopLinks": true,
+  "showForwardConnectedLinks": true,
+  "showBackwardConnectedLinks": true,
+  "showTwohopLinks": true,
+  "showNewLinks": true,
+  "showTagsLinks": true,
+  "showPropertiesLinks": true,
+  "showImage": true,
+  "excludePaths": [
+    ""
+  ],
+  "initialBoxCount": 10,
+  "initialSectionCount": 20,
+  "enableDuplicateRemoval": true,
+  "sortOrder": "createdAsc",
+  "showTwoHopLinksInSeparatePane": false,
+  "excludeTags": [
+    "2025",
+    "2025/05"
+  ],
+  "panePositionIsRight": false,
+  "createFilesForMultiLinked": false,
+  "frontmatterPropertyKeyAsTitle": "",
+  "frontmatterKeys": []
+}
