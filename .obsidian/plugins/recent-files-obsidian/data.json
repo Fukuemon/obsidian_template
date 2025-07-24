@@ -1,40 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "テスト",
-      "path": "000_Inbox/テスト.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "999_Tags/obsidian.md"
-    },
-    {
-      "basename": "Obsidian plugin：Auto Tag & Linker",
-      "path": "000_Inbox/Obsidian plugin：Auto Tag & Linker.md"
-    },
-    {
-      "basename": "ウィキリンク",
-      "path": "000_Inbox/ウィキリンク.md"
-    },
-    {
-      "basename": "2025-06-23(月)",
-      "path": "200_Daily/2025-06-23(月).md"
-    },
-    {
-      "basename": "メモ",
-      "path": "000_Inbox/メモ.md"
-    },
-    {
-      "basename": "YAMLフロントマター",
-      "path": "000_Inbox/YAMLフロントマター.md"
+      "basename": "Obsidian pllugin：Obsidian Web Clipper",
+      "path": "000_Inbox/Obsidian pllugin：Obsidian Web Clipper.md"
     },
     {
       "basename": "N：Obsidianのすゝめ",
       "path": "001_Note/N：Obsidianのすゝめ.md"
     },
     {
-      "basename": "IMG-20250623182847069",
-      "path": "999_attachment/ウィキリンク/IMG-20250623182847069.png"
+      "basename": "2025-07-25(金)",
+      "path": "200_Daily/2025-07-25(金).md"
+    },
+    {
+      "basename": "Base",
+      "path": "999_Template/Base.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "999_Tags/obsidian.md"
+    },
+    {
+      "basename": "20250725_頑張らないObsidian活用術",
+      "path": "100_Event/2025/20250725_頑張らないObsidian活用術.md"
+    },
+    {
+      "basename": "DailyNote",
+      "path": "999_Template/DailyNote.md"
+    },
+    {
+      "basename": "Tag",
+      "path": "999_Template/Tag.md"
+    },
+    {
+      "basename": "Note",
+      "path": "999_Template/Note.md"
+    },
+    {
+      "basename": "Obsidian Plugin：Templater Plugin",
+      "path": "000_Inbox/Obsidian Plugin：Templater Plugin.md"
+    },
+    {
+      "basename": "Obsidian plugin：DataView",
+      "path": "000_Inbox/Obsidian plugin：DataView.md"
+    },
+    {
+      "basename": "YAMLフロントマター",
+      "path": "000_Inbox/YAMLフロントマター.md"
+    },
+    {
+      "basename": "ウィキリンク",
+      "path": "000_Inbox/ウィキリンク.md"
+    },
+    {
+      "basename": "excaldraw",
+      "path": "Excalidraw/excaldraw.md"
+    },
+    {
+      "basename": "Obsidian plugin：Auto Tag & Linker",
+      "path": "000_Inbox/Obsidian plugin：Auto Tag & Linker.md"
+    },
+    {
+      "basename": "Event",
+      "path": "999_Template/Event.md"
+    },
+    {
+      "basename": "L：Obsidianでのファイル作成日プロパティの設定方法",
+      "path": "002_Liteructuer/Clippings/L：Obsidianでのファイル作成日プロパティの設定方法.md"
     },
     {
       "basename": "L：第二の脳とは？その特徴と作り方は？なぜ今必要なのか？",
@@ -45,8 +77,12 @@
       "path": "002_Liteructuer/Clippings/L：第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？.md"
     },
     {
-      "basename": "L：Obsidianでのファイル作成日プロパティの設定方法",
-      "path": "002_Liteructuer/Clippings/L：Obsidianでのファイル作成日プロパティの設定方法.md"
+      "basename": "2025-07-24(木)",
+      "path": "200_Daily/2025-07-24(木).md"
+    },
+    {
+      "basename": "2025-06-23(月)",
+      "path": "200_Daily/2025-06-23(月).md"
     },
     {
       "basename": "L：【Obsidian】2023 年でオススメのプラグイン 66 選",
@@ -57,8 +93,12 @@
       "path": "002_Liteructuer/Clippings/L：How to use Zettelkasten to boost your creativity and productivity.md"
     },
     {
-      "basename": "excaldraw",
-      "path": "Excalidraw/excaldraw.md"
+      "basename": "メモ",
+      "path": "000_Inbox/メモ.md"
+    },
+    {
+      "basename": "IMG-20250623182847069",
+      "path": "999_attachment/ウィキリンク/IMG-20250623182847069.png"
     },
     {
       "basename": "私のPKMの仕組みとセカンドブレイン：Obsidianで実現するPKM",
@@ -139,66 +179,6 @@
     {
       "basename": "SQS LambdaのがNativeImageで動作する理由",
       "path": "000_Inbox/SQS LambdaのがNativeImageで動作する理由.md"
-    },
-    {
-      "basename": "Error：**Exit Status 137",
-      "path": "000_Inbox/Error：**Exit Status 137.md"
-    },
-    {
-      "basename": "SpringError：BeanCreationException",
-      "path": "000_Inbox/SpringError：BeanCreationException.md"
-    },
-    {
-      "basename": "NativeImage：Spring Cloud AWS エラー2",
-      "path": "000_Inbox/NativeImage：Spring Cloud AWS エラー2.md"
-    },
-    {
-      "basename": "N：なぜPKMが必要なのか",
-      "path": "001_Note/N：なぜPKMが必要なのか.md"
-    },
-    {
-      "basename": "Error：BeanCreationException, SQSAsyncClinent",
-      "path": "000_Inbox/Error：BeanCreationException, SQSAsyncClinent.md"
-    },
-    {
-      "basename": "NativeImageを行う上での考慮",
-      "path": "001_Note/NativeImageを行う上での考慮.md"
-    },
-    {
-      "basename": "MyBatisエラー",
-      "path": "000_Inbox/MyBatisエラー.md"
-    },
-    {
-      "basename": "NativeImage：MyBatisでConfigurationを追加していない場合",
-      "path": "000_Inbox/NativeImage：MyBatisでConfigurationを追加していない場合.md"
-    },
-    {
-      "basename": "「知識」と「情報」の関係",
-      "path": "000_Inbox/「知識」と「情報」の関係.md"
-    },
-    {
-      "basename": "N：メモの分類",
-      "path": "000_Inbox/N：メモの分類.md"
-    },
-    {
-      "basename": "fix：NativeImage起動エラー：sqlSessionFactoryとsqlSessionTemplate",
-      "path": "000_Inbox/fix：NativeImage起動エラー：sqlSessionFactoryとsqlSessionTemplate.md"
-    },
-    {
-      "basename": "NativeImage：Spring Cloud AWS エラー",
-      "path": "000_Inbox/NativeImage：Spring Cloud AWS エラー.md"
-    },
-    {
-      "basename": "Kotlin+SpringbootでSQS + Lambdaの構成を作る",
-      "path": "000_Inbox/Kotlin+SpringbootでSQS + Lambdaの構成を作る.md"
-    },
-    {
-      "basename": "ポテ2の悩み",
-      "path": "000_Inbox/ポテ2の悩み.md"
-    },
-    {
-      "basename": "Drawing 2025-05-27 23.11.34.excalidraw",
-      "path": "Excalidraw/Drawing 2025-05-27 23.11.34.excalidraw.md"
     }
   ],
   "omittedPaths": [],

@@ -6,8 +6,11 @@
   "2hop-links-plus",
   "obsidian-excalidraw-plugin",
   "recent-files-obsidian",
-  "tag-auto-link",
   "obsidian-icon-folder",
   "obsidian-auto-link-title",
-  "attachment-management"
+  "attachment-management",
+  "obsidian-meta-bind-plugin",
+  "auto-card-link",
+  "obsidian-memos",
+  "tag-auto-link"
 ]

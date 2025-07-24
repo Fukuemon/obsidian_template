@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarClock",
       "LiExcalidrawIcon",
       "LiTemplaterIcon",
       "LiTag",
-      "LiBook",
-      "LiPaperclip"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,7 +42,6 @@
   "Excalidraw": "LiExcalidrawIcon",
   "002_Literacture": "LiNotebookPen",
   "200_Daily": "LiSun",
-  "201_Weekly": "LiCalendar",
   "100_Event": "LiClapperboard",
   "101_Work": "LiContactRound",
   "101_Work/001_PTS/Ticket": "LiTicket",

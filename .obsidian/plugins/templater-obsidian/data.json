@@ -17,6 +17,18 @@
     {
       "folder": "000_Inbox",
       "template": "999_Template/Base.md"
+    },
+    {
+      "folder": "100_Event",
+      "template": "999_Template/Event.md"
+    },
+    {
+      "folder": "999_Tags",
+      "template": "999_Template/Tag.md"
+    },
+    {
+      "folder": "001_Note",
+      "template": "999_Template/Note.md"
     }
   ],
   "enable_file_templates": false,
