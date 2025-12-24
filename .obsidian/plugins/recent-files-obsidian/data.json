@@ -1,96 +1,168 @@
 {
   "recentFiles": [
     {
+      "basename": "N：Obsidianのすゝめ",
+      "path": "001_Permanent/001_Note/N：Obsidianのすゝめ.md"
+    },
+    {
+      "basename": "Obsidianのすゝめ：構成・意識していること",
+      "path": "000_Inbox/Obsidianのすゝめ：構成・意識していること.md"
+    },
+    {
+      "basename": "Evergreen notes",
+      "path": "000_Inbox/Evergreen notes.md"
+    },
+    {
+      "basename": "アトミックノート",
+      "path": "000_Inbox/アトミックノート.md"
+    },
+    {
+      "basename": "ZettelKasten",
+      "path": "000_Inbox/ZettelKasten.md"
+    },
+    {
+      "basename": "🌐：How to use Zettelkasten to boost your creativity",
+      "path": "002_Literature/Clippings/🌐：How to use Zettelkasten to boost your creativity.md"
+    },
+    {
+      "basename": "Obsidianのすゝめ：よく使う機能・Plugin",
+      "path": "000_Inbox/Obsidianのすゝめ：よく使う機能・Plugin.md"
+    },
+    {
       "basename": "Obsidian pllugin：Obsidian Web Clipper",
       "path": "000_Inbox/Obsidian pllugin：Obsidian Web Clipper.md"
-    },
-    {
-      "basename": "N：Obsidianのすゝめ",
-      "path": "001_Note/N：Obsidianのすゝめ.md"
-    },
-    {
-      "basename": "2025-07-25(金)",
-      "path": "200_Daily/2025-07-25(金).md"
-    },
-    {
-      "basename": "Base",
-      "path": "999_Template/Base.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "999_Tags/obsidian.md"
-    },
-    {
-      "basename": "20250725_頑張らないObsidian活用術",
-      "path": "100_Event/2025/20250725_頑張らないObsidian活用術.md"
-    },
-    {
-      "basename": "DailyNote",
-      "path": "999_Template/DailyNote.md"
-    },
-    {
-      "basename": "Tag",
-      "path": "999_Template/Tag.md"
-    },
-    {
-      "basename": "Note",
-      "path": "999_Template/Note.md"
-    },
-    {
-      "basename": "Obsidian Plugin：Templater Plugin",
-      "path": "000_Inbox/Obsidian Plugin：Templater Plugin.md"
     },
     {
       "basename": "Obsidian plugin：DataView",
       "path": "000_Inbox/Obsidian plugin：DataView.md"
     },
     {
-      "basename": "YAMLフロントマター",
-      "path": "000_Inbox/YAMLフロントマター.md"
+      "basename": "🌐：Obsidian Bases 入門｜松濤Vimmer",
+      "path": "002_Literature/Clippings/🌐：Obsidian Bases 入門｜松濤Vimmer.md"
     },
     {
       "basename": "ウィキリンク",
       "path": "000_Inbox/ウィキリンク.md"
     },
     {
-      "basename": "excaldraw",
-      "path": "Excalidraw/excaldraw.md"
+      "basename": "YAMLフロントマター",
+      "path": "000_Inbox/YAMLフロントマター.md"
     },
     {
-      "basename": "Obsidian plugin：Auto Tag & Linker",
-      "path": "000_Inbox/Obsidian plugin：Auto Tag & Linker.md"
+      "basename": "Base",
+      "path": "999_Template/Base.md"
+    },
+    {
+      "basename": "20250725_頑張らないObsidian活用術",
+      "path": "100_Event/2025/20250725_頑張らないObsidian活用術.md"
+    },
+    {
+      "basename": "Pasted image 20251225031818",
+      "path": "999_Attachment/Pasted image 20251225031818.png"
+    },
+    {
+      "basename": "2025-12-25(木)",
+      "path": "200_Daily/2025-12-25(木).md"
+    },
+    {
+      "basename": "📎 Clipings",
+      "path": "002_Literature/Base/📎 Clipings.base"
+    },
+    {
+      "basename": "adr",
+      "path": "Settings/MetadataMenu/adr.md"
+    },
+    {
+      "basename": "note",
+      "path": "Settings/MetadataMenu/note.md"
+    },
+    {
+      "basename": "📕 Book",
+      "path": "002_Literature/Base/📕 Book.base"
+    },
+    {
+      "basename": "AI",
+      "path": "002_Literature/Base/AI.base"
+    },
+    {
+      "basename": "Repository",
+      "path": "002_Literature/Base/Repository.base"
+    },
+    {
+      "basename": "🌐：第二の脳とは？その特徴と作り方は？なぜ今必要なのか？",
+      "path": "002_Literature/Clippings/🌐：第二の脳とは？その特徴と作り方は？なぜ今必要なのか？.md"
+    },
+    {
+      "basename": "📕：Obsidian_Zenn",
+      "path": "002_Literature/Book/📕：Obsidian_Zenn.md"
+    },
+    {
+      "basename": "Obsidian_Zenn：Obsidian とは",
+      "path": "000_Inbox/Obsidian_Zenn：Obsidian とは.md"
+    },
+    {
+      "basename": "読書メモ",
+      "path": "999_Template/読書メモ.md"
+    },
+    {
+      "basename": "bookMemo",
+      "path": "999_Template/bookMemo.md"
+    },
+    {
+      "basename": "DailyNote",
+      "path": "999_Template/DailyNote.md"
     },
     {
       "basename": "Event",
       "path": "999_Template/Event.md"
     },
     {
-      "basename": "L：Obsidianでのファイル作成日プロパティの設定方法",
-      "path": "002_Liteructuer/Clippings/L：Obsidianでのファイル作成日プロパティの設定方法.md"
+      "basename": "memo",
+      "path": "999_Template/memo.md"
     },
     {
-      "basename": "L：第二の脳とは？その特徴と作り方は？なぜ今必要なのか？",
-      "path": "002_Liteructuer/Clippings/L：第二の脳とは？その特徴と作り方は？なぜ今必要なのか？.md"
+      "basename": "Note",
+      "path": "999_Template/Note.md"
     },
     {
-      "basename": "L：第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？",
-      "path": "002_Liteructuer/Clippings/L：第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？.md"
+      "basename": "Tag",
+      "path": "999_Template/Tag.md"
     },
     {
-      "basename": "2025-07-24(木)",
-      "path": "200_Daily/2025-07-24(木).md"
+      "basename": "🌐：【Obsidian】2023 年でオススメのプラグイン 66 選",
+      "path": "002_Literature/Clippings/🌐：【Obsidian】2023 年でオススメのプラグイン 66 選.md"
     },
     {
-      "basename": "2025-06-23(月)",
-      "path": "200_Daily/2025-06-23(月).md"
+      "basename": "📁：SilentVoid13Templater A template plugin for obsidian",
+      "path": "002_Literature/Repository/📁：SilentVoid13Templater A template plugin for obsidian.md"
     },
     {
-      "basename": "L：【Obsidian】2023 年でオススメのプラグイン 66 選",
-      "path": "002_Liteructuer/Clippings/L：【Obsidian】2023 年でオススメのプラグイン 66 選.md"
+      "basename": "🎥：N8N to Obsidian in 3 Steps (Stop Overcomplicating It)",
+      "path": "002_Literature/Clippings/🎥：N8N to Obsidian in 3 Steps (Stop Overcomplicating It).md"
     },
     {
-      "basename": "L：How to use Zettelkasten to boost your creativity and productivity",
-      "path": "002_Liteructuer/Clippings/L：How to use Zettelkasten to boost your creativity and productivity.md"
+      "basename": "🌐：第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？",
+      "path": "002_Literature/Clippings/🌐：第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？.md"
+    },
+    {
+      "basename": "🌐：Introduction - Templater",
+      "path": "002_Literature/Clippings/🌐：Introduction - Templater.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "999_Tags/obsidian.md"
+    },
+    {
+      "basename": "excaldraw",
+      "path": "Excalidraw/excaldraw.md"
+    },
+    {
+      "basename": "Obsidian Plugin：Templater Plugin",
+      "path": "000_Inbox/Obsidian Plugin：Templater Plugin.md"
+    },
+    {
+      "basename": "Obsidian plugin：Auto Tag & Linker",
+      "path": "000_Inbox/Obsidian plugin：Auto Tag & Linker.md"
     },
     {
       "basename": "メモ",
@@ -98,7 +170,7 @@
     },
     {
       "basename": "IMG-20250623182847069",
-      "path": "999_attachment/ウィキリンク/IMG-20250623182847069.png"
+      "path": "999_Attachment/ウィキリンク/IMG-20250623182847069.png"
     },
     {
       "basename": "私のPKMの仕組みとセカンドブレイン：Obsidianで実現するPKM",
@@ -127,58 +199,6 @@
     {
       "basename": "個人的なPKM手法",
       "path": "000_Inbox/個人的なPKM手法.md"
-    },
-    {
-      "basename": "メモを作るハードルを下げる",
-      "path": "000_Inbox/メモを作るハードルを下げる.md"
-    },
-    {
-      "basename": "2025-05-25(日)",
-      "path": "200_Daily/2025-05-25(日).md"
-    },
-    {
-      "basename": "2025-05-24(土)",
-      "path": "200_Daily/2025-05-24(土).md"
-    },
-    {
-      "basename": "2025-05-21(水)",
-      "path": "200_Daily/2025-05-21(水).md"
-    },
-    {
-      "basename": "2025-04-11(金)",
-      "path": "200_Daily/2025-04-11(金).md"
-    },
-    {
-      "basename": "2025-04-03(木)",
-      "path": "200_Daily/2025-04-03(木).md"
-    },
-    {
-      "basename": "tmux",
-      "path": "998_Tags/006_開発環境/ツール/tmux.md"
-    },
-    {
-      "basename": "2025-05-28(水)",
-      "path": "200_Daily/2025-05-28(水).md"
-    },
-    {
-      "basename": "Gin",
-      "path": "998_Tags/001_Programming/Go/Gin.md"
-    },
-    {
-      "basename": "Go",
-      "path": "998_Tags/001_Programming/Go/Go.md"
-    },
-    {
-      "basename": "並列処理と並行処理",
-      "path": "000_Inbox/並列処理と並行処理.md"
-    },
-    {
-      "basename": "知識から情報が生まれるということ",
-      "path": "000_Inbox/知識から情報が生まれるということ.md"
-    },
-    {
-      "basename": "SQS LambdaのがNativeImageで動作する理由",
-      "path": "000_Inbox/SQS LambdaのがNativeImageで動作する理由.md"
     }
   ],
   "omittedPaths": [],

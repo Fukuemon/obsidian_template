@@ -1,17 +1,21 @@
 ---
-title: How to use Zettelkasten to boost your creativity and productivity
-source: https://zapier.com/blog/zettelkasten-method/
+title: "How to use Zettelkasten to boost your creativity"
+source: "https://zapier.com/blog/zettelkasten-method/"
 author:
   - "[[Jack Beaudoin]]"
 published: 2001-06-29
-created: 2025-05-25
-description: The Zettelkasten is an analog system that can be easily adapted to the digital age. Thanks to its power and simplicity, today the Zettelkasten method has been adapted to fit the workflow and information management of any creative pro.
+created: 2025-12-25
+description: "Learn about a productivity system he called Zettelkasten—German for \"slip box.\""
 tags:
-  - clippings
-  - obsidian
-  - pkm
-Note: "[[Zettelkasten]]"
+  - "clippings"
+  - "zettelkasten"
+  - "pkm"
+note:
+image: "https://images.ctfassets.net/lzny33ho1g45/zettelkasten-method-p-img/09e1aee77e336a6b22c9bdf79e615d15/file.png"
 ---
+## メモ
+
+## コンテンツ
 7 min read
 
 ## Atomic notes: How to use Zettelkasten to boost your creativity and productivity
@@ -20,7 +24,7 @@ Note: "[[Zettelkasten]]"
 
 By Jack Beaudoin · June 29, 2020
 
-![zettelkasten-method primary img](https://images.ctfassets.net/lzny33ho1g45/zettelkasten-method-p-img/09e1aee77e336a6b22c9bdf79e615d15/file.png?w=1520&fm=avif&q=31&fit=thumb&h=760)
+![zettelkasten-method primary img](https://images.ctfassets.net/lzny33ho1g45/zettelkasten-method-p-img/09e1aee77e336a6b22c9bdf79e615d15/file.png?fm=webp&q=31&fit=thumb&w=1520&h=760)
 
 zettelkasten-method primary img
 
@@ -34,7 +38,7 @@ So how did a brewer's son churn out work after work of such consistently high qu
 
 Like vinyl records and hardcover books, Luhmann's original system was analog. It consisted of numbered index cards, or slips, filed in six large cabinets. Each slip contained a single and complete idea (a concept his followers call "atomicity"). An idea might be as short as a simple sentence, or as long as a paragraph—but it had to fit into the space of a zettel, the equivalent of a half-sheet of paper.
 
-![alt](https://images.ctfassets.net/lzny33ho1g45/3MDPpZuAjmY4RUpWoKEC9o/0453c9ae32b5781d2cb365dfcab77be3/alt?w=1400&fm=avif)
+![alt](https://images.ctfassets.net/lzny33ho1g45/3MDPpZuAjmY4RUpWoKEC9o/0453c9ae32b5781d2cb365dfcab77be3/alt?fm=webp)
 
 Luhmann
 
@@ -48,7 +52,7 @@ Luhmann connected his ideas in two ways.
 
 First, each card had a unique index number, or address, using numbers, letters, and occasional punctuation based on a branching hierarchy. So instead of numbering his cards in a traditional "1,2,3" sequence, the first card in Luhmann's system might be 1, but the second card would be 1/1 if it continued the topic. The third card would be numbered 1/2, but if it only extended the idea on the second card, it would be numbered 1/1a. And so forth.
 
-![Luhmann](https://images.ctfassets.net/lzny33ho1g45/dmbEpo3WW6Kp2xvLFMbJu/f1dfb95790af95c9224d80249bbda3d7/Luhmann?w=1400&fm=avif)
+![Luhmann](https://images.ctfassets.net/lzny33ho1g45/dmbEpo3WW6Kp2xvLFMbJu/f1dfb95790af95c9224d80249bbda3d7/Luhmann?fm=webp)
 
 Image from abramdemski via Less Wrong
 
@@ -68,7 +72,7 @@ For nearly two decades after his death, Luhmann's Zettelkasten method remained v
 
 Today, the book ranks #2 in the "study skills" category at Amazon, and #7 in the "time management" category. And thanks to the favorable reception on productivity blogs like Forte's, Zettelkasten has begun to blow up online. Today, a Google search will return well over 200,000 results, and [hundreds of how-to videos](https://www.youtube.com/results?search_query=zettelkasten) have popped up on YouTube.
 
-![Showing Zettelkasten searches on Google Trends over the past year](https://images.ctfassets.net/lzny33ho1g45/1armGvsupc6G7pWmFLA2pD/58d2d2e81e9a835c32f602f24d5a4003/Showing_Zettelkasten_searches_on_Google_Trends_over_the_past_year?w=1400&fm=avif)
+![Showing Zettelkasten searches on Google Trends over the past year](https://images.ctfassets.net/lzny33ho1g45/1armGvsupc6G7pWmFLA2pD/58d2d2e81e9a835c32f602f24d5a4003/Showing_Zettelkasten_searches_on_Google_Trends_over_the_past_year?fm=webp)
 
 Zettelkasten searches are accelerating on Google
 
@@ -96,9 +100,9 @@ Simply put, you can build a functional Zettelkasten using a cloud storage provid
 
 The drawback, of course, is that it's nearly impossible to add note links to existing PDFs and image files. Workarounds exist, like inserting links into metadata or keeping track of inter-note links in a master spreadsheet. Some users even embed images and PDFs in text files to which they add links. But let's face it—the hassle factor is huge.
 
-[Obsidian](https://obsidian.md/) —an early beta app from the creators of the popular outlining tool Dynalist—uses your local file system and a Markdown editor that enables backlinking. Like Roam, it also provides a graph view that visualizes the connections between ideas. And [nvUltra](https://nvultra.com/), which also looks to provide all the essential Zettelkasten tools in a markdown editor, is set to move into beta soon.
+[Obsidian](https://zapier.com/blog/obsidian-notes/) —an early beta app from the creators of the popular outlining tool Dynalist—uses your local file system and a Markdown editor that enables backlinking. Like Roam, it also provides a graph view that visualizes the connections between ideas. And [nvUltra](https://nvultra.com/), which also looks to provide all the essential Zettelkasten tools in a markdown editor, is set to move into beta soon.
 
-![A screenshot from the Obsidian home page](https://images.ctfassets.net/lzny33ho1g45/ISmhyhyEePi81Beb3nObC/50b1f3fa38117c7a62b2fc92810c4d27/A_screenshot_from_the_Obsidian_home_page?w=1400&fm=avif)
+![A screenshot from the Obsidian home page](https://images.ctfassets.net/lzny33ho1g45/ISmhyhyEePi81Beb3nObC/50b1f3fa38117c7a62b2fc92810c4d27/A_screenshot_from_the_Obsidian_home_page?fm=webp)
 
 Obsidian, a full-featured markdown editor, uses your local file system to store notes.
 

@@ -11,6 +11,9 @@ Templateの[[Tag]]ファイルや[[DailyNote]]に利用している。
 やれることが幅広いので、色んな人の使い方を参考にクエリを置き換えて取り入れる。
 [[Obsidian Plugin：Templater Plugin| Templater Plugin]]と相性がいい
 
+最近だとBase機能が追加されているので、併用して使うのも良さそう
+→ [[🌐：Obsidian Bases 入門｜松濤Vimmer]]
+
 # Resouce
 [ObsidianのDataviewの使い方 入門 \| eiji.page](https://eiji.page/blog/obsidian-dataview-howto/)
 [【知っ得！】Obsidian × Dataviewでノート整理を効率化！初心者向けガイド - アスタWorks](https://blog.astha.jp/post-3967/)

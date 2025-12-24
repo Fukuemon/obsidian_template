@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Inbox/Obsidian pllugin：Obsidian Web Clipper.md",
+                "file": "001_Permanent/001_Note/N：Obsidianのすゝめ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian pllugin：Obsidian Web Clipper"
+              "title": "N：Obsidianのすゝめ"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:%>",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -122,8 +122,8 @@
             "state": {
               "type": "thino_view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
+              "icon": "Memos",
+              "title": "Thino"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_Note/N：Obsidianのすゝめ.md",
+                "file": "001_Permanent/001_Note/N：Obsidianのすゝめ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,16 +188,30 @@
               "icon": "lucide-list",
               "title": "N：Obsidianのすゝめのアウトライン"
             }
+          },
+          {
+            "id": "3cf18879c769d895",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "001_Permanent/001_Note/N：Obsidianのすゝめ.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 484.5,
+    "width": 297,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -207,54 +221,58 @@
       "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-memos:Thino": false
+      "obsidian-memos:Thino": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
   "active": "e068fc3b05cc704a",
   "lastOpenFiles": [
-    "001_Note/N：Obsidianのすゝめ.md",
-    "200_Daily/2025-07-25(金).md",
-    "999_Template/Base.md",
-    "999_Tags/obsidian.md",
-    "100_Event/2025/20250725_頑張らないObsidian活用術.md",
-    "999_Template/DailyNote.md",
-    "999_Template/Tag.md",
-    "999_Template/Note.md",
-    "000_Inbox/Obsidian Plugin：Templater Plugin.md",
-    "000_Inbox/Obsidian plugin：DataView.md",
-    "000_Inbox/YAMLフロントマター.md",
-    "000_Inbox/ウィキリンク.md",
+    "000_Inbox/Obsidianのすゝめ：構成・意識していること.md",
+    "000_Inbox/Evergreen notes.md",
+    "000_Inbox/アトミックノート.md",
+    "001_Permanent/001_Note/N：Obsidianのすゝめ.md",
+    "000_Inbox/Untitled.md",
+    "000_Inbox/ZettelKasten.md",
+    "002_Literature/Clippings/🌐：How to use Zettelkasten to boost your creativity.md",
+    "999_Tags/無題のファイル.md",
+    "000_Inbox/Obsidianのすゝめ：よく使う機能・Plugin.md",
     "000_Inbox/Obsidian pllugin：Obsidian Web Clipper.md",
-    "Excalidraw/excaldraw.md",
-    "100_Event/Event_Index.md",
-    "000_Inbox/Obsidian plugin：Auto Tag & Linker.md",
-    "Excalidraw/tag-auto-link/manifest.json",
-    "Excalidraw/tag-auto-link/main.js",
-    "Excalidraw/tag-auto-link/data.json",
-    "Excalidraw/tag-auto-link",
-    "999_Tags/go.md",
-    "999_Template/Event.md",
-    "999_Tags/obsidan.md",
-    "002_Liteructuer/Clippings/L：Obsidianでのファイル作成日プロパティの設定方法.md",
-    "002_Liteructuer/Clippings/L：第二の脳とは？その特徴と作り方は？なぜ今必要なのか？.md",
-    "002_Liteructuer/Clippings/L：第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？.md",
-    "200_Daily/2025-07-24(木).md",
+    "999_Attachment/Pasted image 20251225034158.png",
+    "000_Inbox/Obsidian plugin：DataView.md",
+    "002_Literature/Clippings/🌐：Obsidian Bases 入門｜松濤Vimmer.md",
+    "000_Inbox/ウィキリンク.md",
+    "000_Inbox/YAMLフロントマター.md",
+    "001_Permanent/001_Note/N：Obsidianのすゝ.md",
+    "001_Permanent/001_Note/無題のファイル.md",
+    "999_Template/Base.md",
+    "100_Event/2025/20250725_頑張らないObsidian活用術.md",
+    "999_Attachment/Pasted image 20251225031818.png",
+    "200_Daily/2025-12-25(木).md",
+    "002_Literature/Base/📎 Clipings.base",
     "200_Daily/2025-06-23(月).md",
-    "002_Liteructuer/Clippings/L：【Obsidian】2023 年でオススメのプラグイン 66 選.md",
-    "999_attachment/000_Inbox/Obsidian pllugin：Obsidian Web Clipper",
-    "999_attachment/000_Inbox/Obsidian pllugin：Web Clipper",
-    "999_attachment/000_Inbox/Obsidian pllugin：Obsidian Web Clipper/IMG-20250725015202058.png",
-    "999_attachment/000_Inbox/Obsidian Plugin：Templater Plugin/IMG-20250725015109651.png",
-    "999_attachment/000_Inbox/Obsidian Plugin：Templater Plugin",
-    "999_attachment/000_Inbox/Obsidian Plugin：Templater Plugin/IMG-20250725015029478.png",
-    "999_attachment/000_Inbox/Obsidian plugin：DataView",
-    "999_attachment/000_Inbox/Obsidian plugin：DataView/IMG-20250725014933853.png",
-    "101_Work/Aプロジェクト",
-    "101_Work/Aプロジェクト/OJT",
-    "999_attachment/000_Inbox/Obsidian plugin：Auto Tag & Linker/IMG-20250724234753776.png",
-    "999_attachment/000_Inbox/Obsidian plugin：Auto Tag & Linker/IMG-20250724234602586.png",
+    "200_Daily/2025-07-25(金).md",
+    "200_Daily/2025-07-24(木).md",
+    "Settings/MetadataMenu/adr.md",
+    "Settings/MetadataMenu/note.md",
+    "Settings/MetadataMenu/調査.md",
+    "Settings/MetadataMenu",
+    "Settings",
+    "000_Inbox/L：【Obsidian】2023 年でオススメのプラグイン 66 選.md",
+    "002_Literature/Base/📕 Book.base",
+    "002_Literature/Base/AI.base",
+    "002_Literature/Base/Repository.base",
+    "002_Literature/Base/Book",
+    "002_Literature/Book",
+    "002_Liteructuer/Base/無題のフォルダ",
+    "002_Literature/Base",
+    "999_Attachment/000_Inbox/Obsidian pllugin：Obsidian Web Clipper/IMG-20250725015202058.png",
+    "999_Attachment/000_Inbox/Obsidian Plugin：Templater Plugin/IMG-20250725015109651.png",
+    "999_Attachment/000_Inbox/Obsidian Plugin：Templater Plugin/IMG-20250725015029478.png",
+    "999_Attachment/000_Inbox/Obsidian plugin：DataView/IMG-20250725014933853.png",
+    "999_Attachment/000_Inbox/Obsidian plugin：Auto Tag & Linker/IMG-20250724234753776.png",
+    "999_Attachment/000_Inbox/Obsidian plugin：Auto Tag & Linker/IMG-20250724234602586.png",
     "999_attachment/000_Inbox/Obsidian plugin：Auto Tag & Linker/IMG-20250724234525537.png",
-    "999_attachment/000_Inbox/YAMLフロントマター/IMG-20250623183526505.png",
-    "999_attachment/ウィキリンク/IMG-20250623182847069.png"
+    "999_Attachment/000_Inbox/YAMLフロントマター/IMG-20250623183526505.png"
   ]
 }

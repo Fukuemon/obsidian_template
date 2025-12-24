@@ -27,8 +27,12 @@
       "template": "999_Template/Tag.md"
     },
     {
-      "folder": "001_Note",
+      "folder": "001_Permanent/001_Note",
       "template": "999_Template/Note.md"
+    },
+    {
+      "folder": "002_Literature/Book",
+      "template": "999_Template/読書メモ.md"
     }
   ],
   "enable_file_templates": false,

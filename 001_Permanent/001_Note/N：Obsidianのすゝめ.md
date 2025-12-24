@@ -1,34 +1,33 @@
-<%*
-var title = await tp.system.prompt("タイトル");
-
-// 入力キャンセル or 空文字チェック
-if (!title || title.trim() === "") {
-  new Notice("タイトル入力がキャンセルされました。処理を中止します。");
-  return;
-}
-
-var displayTitle = "N：" + title;
-await tp.file.rename(displayTitle);
-
-// 全体を文字列として出力
-tR += `---
+---
 tags:
   - note
-  - "${title}"
+  - Obsidianのすゝめ
+  - obsidian
+note_status: 随筆
 ---
-
 ## 概要
+~~みんなに Obsidian を使ってもらうための記事~~
+ではなく、どうしてメモを取る必要があるのか。
+なぜ Obsidian がいいのかについて自分の考えを書く。
+ポエムのような内容を含める。
+その後、自分の Obsidian の使い方について Tips 形式で記述していく
+
+## 目次
+
+1. はじめに
+2. 前半：なぜメモを取る必要があるのか(知識管理が大切なのか)
+3. 後半：私の Obsidian 活用
 
 
 ## 関連メモ
-\`\`\`dataview
+```dataview
 TABLE file.cday AS "作成日",
 	  file.mday AS "修正日"
-FROM #${title} and #メモ
+FROM #Obsidianのすゝめ and #メモ
 SORT file.cday desc
-\`\`\`
+```
 
-\`\`\`dataviewjs
+```dataviewjs
 const btn = dv.el("button", "メモを作成")
 btn.onclick = async function(){
 	// 現在のページのタイトルを取得
@@ -82,7 +81,7 @@ btn.onclick = async function(){
     await templaterPlugin.templater.create_new_note_from_template(templateFile);
     
     // 成功通知
-    new Notice(\`「\${baseTitle}」のメモを作成しました\`);
+    new Notice(`「${baseTitle}」のメモを作成しました`);
     
   } catch (error) {
     console.error("テンプレート実行エラー:", error);
@@ -92,7 +91,6 @@ btn.onclick = async function(){
     window.currentNoteTags = null;
   }
 }
-\`\`\`
-`;
-%>
+```
+
    

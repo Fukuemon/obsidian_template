@@ -1,17 +1,33 @@
 ---
-title: 第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？
-source: https://jmatsuzaki.com/archives/26856
+title: "第二の脳を作るノート術Zettelkasten（ツェッテルカステン）とは？"
+source: "https://jmatsuzaki.com/archives/26856"
 author:
   - "[[jMatsuzaki]]"
 published: 2020-09-29
-created: 2025-05-25
-description: TaskChute Cloud開発者ブログ
+created: 2025-12-25
+description: "TaskChute Cloud開発者ブログ"
 tags:
-  - clippings
-  - pkm
-  - obsidian
-Note: "[[Zettelkasten]]"
+  - "clippings"
+  - "pkm"
+  - "zettelkasten"
+note:
+image: "https://jmatsuzaki.com/wp-content/uploads/business-cards-3152885_1920.jpg"
 ---
+## メモ
+
+## コンテンツ
+[Home](https://jmatsuzaki.com/) > > >
+
+## ドイツの社会学者ニクラス・ルーマンが研究と執筆の相棒にしたアナログのカード型ノートシステムZettelkasten（ツェッテルカステン）とは？
+
+2020年9月29日 投稿 2022年1月27日更新 カテゴリ：
+
+![](https://secure.gravatar.com/avatar/1cbe9448b95d2d3c32fe8eaca1b6bc15?s=100&d=mm&r=g) 著者:
+
+![](https://jmatsuzaki.com/wp-content/uploads/business-cards-3152885_1920-800x530.jpg)
+
+私の愛しいアップルパイへ
+
 **Zettelkasten（ツェッテルカステン）** をご存知でしょうか。ドイツの社会学者Niklas Luhmann（ニクラス・ルーマン）によって考案されたアナログのカード型ノートシステムです。
 
 これがノートの取り方、活用の仕方として実にエキサイティングなものなのであなたにも紹介せねばなるまいと馬を走らせてきた次第であります。

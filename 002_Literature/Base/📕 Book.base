@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.folder == "002_Literature/Book"
+    order:
+      - file.name
+    cardSize: 340
+    image: note.image
+    indentProperties: false
