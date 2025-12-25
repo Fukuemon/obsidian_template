@@ -2,7 +2,7 @@
 
 obsidian のテンプレート
 
-紹介記事：
+紹介記事：[今日からはじめる知識管理：頑張らない Obsidian 活用術](https://tech-blog.optim.co.jp/entry/2025/12/25/100000)
 
 ## Setup
 
