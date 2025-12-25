@@ -1,0 +1,58 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "Deepwiki",
+	"behavior": "create",
+	"noteContentFormat": "## メモ\n\n## コンテンツ\n{{content}}",
+	"properties": [
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "source",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "author",
+			"value": "{{author|split:\\\", \\\"|wikilink|join}}",
+			"type": "multitext"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{description}}",
+			"type": "text"
+		},
+		{
+			"name": "repo",
+			"value": "https://github.com/{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "clippings,deepwiki",
+			"type": "multitext"
+		},
+		{
+			"name": "note",
+			"value": "",
+			"type": "text"
+		},
+		{
+			"name": "image",
+			"value": "{{image}}",
+			"type": "text"
+		}
+	],
+	"triggers": [
+		"https://deepwiki.com"
+	],
+	"noteNameFormat": "🗂️：{{title}}",
+	"path": "002_Literature/Deepwiki"
+}

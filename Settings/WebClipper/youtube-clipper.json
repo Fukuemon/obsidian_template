@@ -1,0 +1,59 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "Youtube",
+	"behavior": "create",
+	"noteContentFormat": "## メモ\n\n## コンテンツ\n{{content}}",
+	"properties": [
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "source",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "author",
+			"value": "{{author|split:\\\", \\\"|wikilink|join}}",
+			"type": "multitext"
+		},
+		{
+			"name": "published",
+			"value": "{{published}}",
+			"type": "date"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{description}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "clippings,youtube",
+			"type": "multitext"
+		},
+		{
+			"name": "note",
+			"value": "",
+			"type": "text"
+		},
+		{
+			"name": "image",
+			"value": "{{image}}",
+			"type": "text"
+		}
+	],
+	"triggers": [
+		"https://www.youtube.com/",
+		"https:/youtube.com/"
+	],
+	"noteNameFormat": "🎥：{{title}}",
+	"path": "002_Literature/Clippings"
+}
